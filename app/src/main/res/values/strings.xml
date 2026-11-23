@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Montenegro Escalas</string>
+    <string name="portal_subtitle">Portal Operacional Viação Montenegro</string>
+    <string name="login_role_driver">Motorista</string>
+    <string name="login_role_admin">Administrador</string>
+    <string name="login_email_label">E-mail de Acesso</string>
+    <string name="login_email_placeholder">seu.email@montenegro.com</string>
+    <string name="login_password_label">Senha</string>
+    <string name="login_remember_me">Lembrar de mim neste aparelho</string>
+    <string name="login_submit">Entrar no Sistema</string>
+    <string name="loading_access">Preparando seu acesso...</string>
+    <string name="search_placeholder">Pesquisar...</string>
+    <string name="search_menu_placeholder">Buscar no menu...</string>
+    <string name="notifications_title">Central de Notificações</string>
+    <string name="how_to_use">Como usar o app</string>
+    <string name="logout">Sair da Conta</string>
+    <string name="profile_title">Personalizar o Meu Perfil</string>
+    <string name="profile_pick_photo">Escolher arquivo</string>
+    <string name="profile_display_name">Nome de Exibição</string>
+    <string name="profile_bio">Breve Descrição / Bio</string>
+    <string name="profile_save">Guardar Alterações</string>
+    <string name="dashboard_subtitle">Painel de Controle Operacional da Viação Montenegro.</string>
+    <string name="footer_version">Viação Montenegro • Versão do App: v2.4.1</string>
+    <string name="footer_instagram">Instagram da Empresa</string>
+    <string name="footer_whatsapp">Grupo do WhatsApp</string>
+</resources>
